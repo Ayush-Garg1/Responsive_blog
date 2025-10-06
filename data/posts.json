@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog Post",
+    "image": "images/sample1.jpg",
+    "content": "This is the full content of the first blog post. You can write about your experiences, tutorials, or personal thoughts here."
+  },
+  {
+    "id": 2,
+    "title": "Learning Frontend Development",
+    "image": "images/banner.jpg",
+    "content": "Frontend development involves HTML, CSS, and JavaScript. It’s fun to bring designs to life using code."
+  }
+]
